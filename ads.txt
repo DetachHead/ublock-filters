@@ -8,4 +8,6 @@
 drinkinggamezone.com###spons-container
 drinkinggamezone.com##.amazon-products-container
 
+drinkinggames.eu##.dialog-widget
+
 lnk.snahp.eu##script[data-cfasync="false"]
