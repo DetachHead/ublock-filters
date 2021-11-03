@@ -11,3 +11,5 @@ drinkinggamezone.com##.amazon-products-container
 drinkinggames.eu##.dialog-widget
 
 lnk.snahp.eu##script[data-cfasync="false"]
+
+www.partitionwizard.com##div.promotions-banner-wrap
