@@ -13,3 +13,5 @@ drinkinggames.eu##.dialog-widget
 lnk.snahp.eu##script[data-cfasync="false"]
 
 www.partitionwizard.com##div.promotions-banner-wrap
+
+www.woolworths.com.au##div[class*=product-grid--tile]:has(div[class*=shelfProductTile-sponsored])
