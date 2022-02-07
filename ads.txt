@@ -17,3 +17,5 @@ www.partitionwizard.com##div.promotions-banner-wrap
 www.woolworths.com.au##div[class*=product-grid--tile]:has(div[class*=shelfProductTile-sponsored])
 
 www.howtoedge.com##table:has(a[rel*=sponsored])
+
+regex101.com##div:has(> div:has-text(/^Sponsors$/))
