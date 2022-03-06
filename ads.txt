@@ -19,3 +19,5 @@ www.woolworths.com.au##div[class*=product-grid--tile]:has(div[class*=shelfProduc
 www.howtoedge.com##table:has(a[rel*=sponsored])
 
 regex101.com##div:has(> div:has-text(/^Sponsors$/))
+
+||www.bom.gov.au/includes/marketing.html
