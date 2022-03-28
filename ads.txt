@@ -22,6 +22,8 @@ regex101.com##div:has(> div:has-text(/^Sponsors$/))
 
 simkl.com##div.SimklTVDetailEpisodeLinksItem:has(td.SimklTVDetailEpisodeLinkNumber:has-text(/^AD$/))
 
+www.slipstick.com##section:has(.widget-title:has-text(/^Our Sponsors$/))
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
