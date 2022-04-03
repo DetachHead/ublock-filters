@@ -24,6 +24,8 @@ simkl.com##div.SimklTVDetailEpisodeLinksItem:has(td.SimklTVDetailEpisodeLinkNumb
 
 www.slipstick.com##section:has(.widget-title:has-text(/^Our Sponsors$/))
 
+w2g.tv##div[id=w2g-center-doit]
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
