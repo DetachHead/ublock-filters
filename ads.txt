@@ -28,6 +28,9 @@ w2g.tv##div[id=w2g-center-doit]
 
 tech.hindustantimes.com##.topGadgetsWrapper
 
+! https://github.com/AdguardTeam/AdguardFilters/issues/115292
+||safestgatetocontent.com^
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
