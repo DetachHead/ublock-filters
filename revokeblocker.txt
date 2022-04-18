@@ -6,7 +6,10 @@
 ! GitHub pull requests: https://github.com/DetachHead/ublock-filters/pulls
 
 ! blocks servers that revoke ios app signing certs
-! WARNING: to be used with adguard dns filter. you won't get very far if you add it to ublock/adguard safari
+! WARNING: to be used with adguard dns filter. you won't get very far if you add it to ublock/adguard safari. to do this:
+! 1. open the adguard app
+! 2. go to the protection tab > "DNS filtering" > "DNS filter" > "Add a filter..."
+! 3. paste in the following url: https://raw.githubusercontent.com/DetachHead/ublock-filters/master/revokeblocker.txt
 ! source: https://www.reddit.com/r/sideloaded/comments/et32a2/comment/ffespl3/?utm_source=reddit&utm_medium=web2x&context=3
 
 ||ocsp.int-x3.letsencrypt.org^
