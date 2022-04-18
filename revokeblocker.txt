@@ -1,0 +1,23 @@
+! Title: apple revoke blocker
+! Expires: 1 day
+! Homepage: https://github.com/DetachHead/ublock-filters
+!
+! GitHub issues: https://github.com/DetachHead/ublock-filters/issues
+! GitHub pull requests: https://github.com/DetachHead/ublock-filters/pulls
+
+! blocks servers that revoke ios app signing certs
+! WARNING: to be used with adguard dns filter. you won't get very far if you add it to ublock/adguard safari
+! source: https://www.reddit.com/r/sideloaded/comments/et32a2/comment/ffespl3/?utm_source=reddit&utm_medium=web2x&context=3
+
+||ocsp.int-x3.letsencrypt.org^
+||ocsp.apple.com^
+||world-gen.g.aaplimg.com^
+||mesu.apple.com^
+||gdmf.apple.com^
+||www.gdmf.apple.com^
+||ppq.apple.com^
+||iadsdk.apple.com^
+||googleads.g.doubleclick.net^
+||googletagservices.com^
+||stats.g.doubleclick.net^
+||adclick.g.douclick.net^
