@@ -29,6 +29,7 @@ w2g.tv##div[id=w2g-center-doit]
 tech.hindustantimes.com##.topGadgetsWrapper
 
 starfiles.co##.branding
+starfiles.co##.branding_notice
 
 ||www.bom.gov.au/includes/marketing.html
 
