@@ -28,7 +28,7 @@ w2g.tv##div[id=w2g-center-doit]
 
 tech.hindustantimes.com##.topGadgetsWrapper
 
-ugc.starfiles.co##.branding
+starfiles.co##.branding
 
 ||www.bom.gov.au/includes/marketing.html
 
