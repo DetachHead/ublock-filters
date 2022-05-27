@@ -31,6 +31,8 @@ tech.hindustantimes.com##.topGadgetsWrapper
 starfiles.co##.branding
 starfiles.co##.branding_notice
 
+inspiredwebdev.com##div:has(>div>img[src^='../../affiliates'])
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
