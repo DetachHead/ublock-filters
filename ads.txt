@@ -33,6 +33,8 @@ starfiles.co##.branding_notice
 
 inspiredwebdev.com##div:has(>div>img[src^='../../affiliates'])
 
+discuss.dizzycoding.com##.slidingmessage
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
