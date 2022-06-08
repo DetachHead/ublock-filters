@@ -35,6 +35,8 @@ inspiredwebdev.com##div:has(>div>img[src^='../../affiliates'])
 
 discuss.dizzycoding.com##.slidingmessage
 
+www.codegrepper.com###jobs_promo
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
