@@ -37,6 +37,8 @@ discuss.dizzycoding.com##.slidingmessage
 
 www.codegrepper.com###jobs_promo
 
+ziga.ga##div.box:has(h5:has-text(/^Sponsored/))
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
