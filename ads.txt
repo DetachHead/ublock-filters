@@ -39,6 +39,8 @@ www.codegrepper.com###jobs_promo
 
 ziga.ga##div.box:has(h5:has-text(/^Sponsored/))
 
+www.instagram.com##article:has(header span:has-text(/^Sponsored$/))
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
