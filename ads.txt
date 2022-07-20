@@ -44,6 +44,8 @@ www.instagram.com##article:has(header span:has-text(/^Sponsored$/))
 ! godaddy ads
 *##div#verizon-feed
 
+giters.com##div>a:has(img[src*='tapfiliate.com'])
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
