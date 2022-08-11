@@ -46,6 +46,9 @@ www.instagram.com##article:has(header span:has-text(/^Sponsored$/))
 
 giters.com##div>a:has(img[src*='tapfiliate.com'])
 
+w3techs.com##.feat1
+w3techs.com##.tech_add a:not([href*='//w3techs.com'],[href*='//b.w3techs.com']):has(img)
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
