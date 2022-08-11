@@ -48,6 +48,7 @@ giters.com##div>a:has(img[src*='tapfiliate.com'])
 
 w3techs.com##.feat1
 w3techs.com##.tech_add a:not([href*='//w3techs.com'],[href*='//b.w3techs.com']):has(img)
+w3techs.com##a:has(img[src*='//a.w3techs.com'])
 
 ||www.bom.gov.au/includes/marketing.html
 
