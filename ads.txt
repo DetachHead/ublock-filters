@@ -52,6 +52,8 @@ w3techs.com##a:has(img[src*='//a.w3techs.com'])
 
 www.sitepoint.com##.custom-content
 
+sourceforge.net###nels
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
