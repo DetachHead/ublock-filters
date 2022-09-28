@@ -54,6 +54,8 @@ www.sitepoint.com##.custom-content
 
 sourceforge.net###nels
 
+remysharp.com##.cta
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
