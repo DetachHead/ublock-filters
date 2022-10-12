@@ -56,6 +56,9 @@ sourceforge.net###nels
 
 remysharp.com##.cta
 
+www.technowize.com##.header-add
+www.technowize.com##a>img[alt$='Add']
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
