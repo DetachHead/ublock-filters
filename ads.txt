@@ -62,6 +62,8 @@ www.technowize.com##a>img[alt$='Add']
 www.allmusic.com##.blocking-ads-modal
 www.allmusic.com##body:style(overflow: auto !important)
 
+adamtheautomator.com##.sitewide-ad-container
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
