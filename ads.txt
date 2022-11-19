@@ -64,6 +64,8 @@ www.allmusic.com##body:style(overflow: auto !important)
 
 adamtheautomator.com##.sitewide-ad-container
 
+outlook.live.com##div.full:has(div:has-text(/^Ad$/))
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
