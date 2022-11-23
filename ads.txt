@@ -66,6 +66,8 @@ adamtheautomator.com##.sitewide-ad-container
 
 outlook.live.com##div.full:has(div:has-text(/^Ad$/))
 
+www.skyscanner.com.au##div[class^=FlightsResults]>div:has(span[class^=BpkBadge_bp])
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
