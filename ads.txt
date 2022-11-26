@@ -68,6 +68,9 @@ outlook.live.com##div.full:has(div:has-text(/^Ad$/))
 
 www.skyscanner.com.au##div[class^=FlightsResults]>div:has(span[class^=BpkBadge_bp])
 
+! ublock blocks the script that makes these ads, but it doesn't work on adguard for some reason
+boards.4channel.org,boards.4chan.org###danbo-s-t
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
