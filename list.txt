@@ -71,6 +71,8 @@ www.skyscanner.com.au##div[class^=FlightsResults]>div:has(span[class^=BpkBadge_b
 ! ublock blocks the script that makes these ads, but it doesn't work on adguard for some reason
 boards.4channel.org,boards.4chan.org###danbo-s-t
 
+pcstrike.com##[rel="sponsored"]
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
