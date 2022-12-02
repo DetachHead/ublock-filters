@@ -73,6 +73,8 @@ boards.4channel.org,boards.4chan.org###danbo-s-t
 
 pcstrike.com##[rel="sponsored"]
 
+colorswall.com##.user-container:has(>a.user-el)
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
