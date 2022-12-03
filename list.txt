@@ -75,6 +75,8 @@ pcstrike.com##[rel="sponsored"]
 
 colorswall.com##.user-container:has(>a.user-el)
 
+adventofcode.com##div#sponsor
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
