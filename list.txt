@@ -80,6 +80,8 @@ adventofcode.com##div#sponsor
 www.w3schools.com##:xpath(//div[@class='sn_ad_label']/following-sibling::a)
 www.w3schools.com##div.sn_ad_label
 
+developer.mozilla.org##section.place:has(>a.no-pong)
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
