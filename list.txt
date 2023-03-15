@@ -82,6 +82,8 @@ www.w3schools.com##div.sn_ad_label
 
 developer.mozilla.org##section.place:has(>a.no-pong)
 
+www.seroundtable.com##div:has(>a[rel='sponsored'])
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
