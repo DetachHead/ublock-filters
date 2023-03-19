@@ -84,6 +84,8 @@ developer.mozilla.org##section.place:has(>a.no-pong)
 
 www.seroundtable.com##div:has(>a[rel='sponsored'])
 
+fmovies.wtf##div.text-center
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
