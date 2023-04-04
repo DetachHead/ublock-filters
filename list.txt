@@ -89,6 +89,8 @@ fmovies.to##+js(nostif, /devToolsDetected/)
 fmovies.wtf##div.text-center
 fmovies.wtf##+js(nostif, /devToolsDetected/)
 
+office365itpros.com##section:has(>h2:has-text(/^Thanks to our Sponsors$/))
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
