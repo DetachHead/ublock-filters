@@ -92,6 +92,8 @@ fmovies.wtf##+js(nostif, /devToolsDetected/)
 
 office365itpros.com##section:has(>h2:has-text(/^Thanks to our Sponsors$/))
 
+yify-subtitles.org##^script:has-text(redirectValue)
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
