@@ -97,6 +97,10 @@ yify-subtitles.org##^script:has-text(redirectValue)
 www.juicer.io##div.elementor-element:has(p:has-text(/^Ad$/)) + div
 www.juicer.io##p:has-text(/^Ad$/)
 
+www.searchenginejournal.com##div:has(>a[rel*=sponsored])
+www.searchenginejournal.com##div#sej-pop-wrapper_v2:has(a[rel*=sponsored])
+www.searchenginejournal.com##.sej-hello-bar:has(div.spons-text)
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
