@@ -94,6 +94,9 @@ office365itpros.com##section:has(>h2:has-text(/^Thanks to our Sponsors$/))
 
 yify-subtitles.org##^script:has-text(redirectValue)
 
+www.juicer.io##div.elementor-element:has(p:has-text(/^Ad$/)) + div
+www.juicer.io##p:has-text(/^Ad$/)
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
