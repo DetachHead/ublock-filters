@@ -64,9 +64,6 @@ www.allmusic.com##body:style(overflow: auto !important)
 
 adamtheautomator.com##.sitewide-ad-container
 
-outlook.live.com##div.full:has(div:has-text(/^Ad$/))
-outlook.live.com##:xpath(//div[starts-with(@aria-label, 'Message list') and not(@data-app-section)]/div/div/div[.//div[.='Ad']])
-
 www.skyscanner.com.au##div[class^=FlightsResults]>div:has(span[class^=BpkBadge_bp])
 
 ! ublock blocks the script that makes these ads, but it doesn't work on adguard for some reason
