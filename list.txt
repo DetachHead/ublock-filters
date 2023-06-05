@@ -98,6 +98,8 @@ www.searchenginejournal.com##div:has(>a[rel*=sponsored])
 www.searchenginejournal.com##div#sej-pop-wrapper_v2:has(a[rel*=sponsored])
 www.searchenginejournal.com##.sej-hello-bar:has(div.spons-text)
 
+www.independent.co.uk##.article:has(a:has-text(/^(SPONSORED|Promoted content)$/))
+
 ||www.bom.gov.au/includes/marketing.html
 
 ||github.sre.pub
