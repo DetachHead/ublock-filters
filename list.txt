@@ -51,6 +51,7 @@ developer.mozilla.org##section.place:has(>a.no-pong)
 www.seroundtable.com##div:has(>a[rel='sponsored'])
 fmovies.to##div.text-center
 fmovies.wtf##div.text-center
+aniwave.to,bflix.io,flixhq.*,fmovies.*,f2movies.ru,movies2watch.ru,putlockernew.vc,swatchseries.ru,vidstream.pro,mcloud.to##div:has(>div>div:has-text(/^✕$/))
 office365itpros.com##section:has(>h2:has-text(/^Thanks to our Sponsors$/))
 yify-subtitles.org##^script:has-text(redirectValue)
 www.juicer.io##div.elementor-element:has(p:has-text(/^Ad$/)) + div
