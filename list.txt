@@ -61,7 +61,7 @@ www.searchenginejournal.com##div#sej-pop-wrapper_v2:has(a[rel*=sponsored])
 www.searchenginejournal.com##.sej-hello-bar:has(div.spons-text)
 www.independent.co.uk##.article:has(a:has-text(/^(SPONSORED|Promoted content)$/))
 top.gg##article:has(div[title=Promoted])
-m.facebook.com#?#div[data-type='vscroller']>div:has(span:contains(/^Sponsored/))
+facebook.com,m.facebook.com#?#div[data-type='vscroller']>div:has(span:contains(/^Sponsored/))
 stackoverflow.com##li.s-sidebarwidget--item:has(>div>div:has-text(/^sponsored post$/))
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
