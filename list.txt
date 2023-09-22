@@ -49,9 +49,8 @@ www.w3schools.com##:xpath(//div[@class='sn_ad_label']/following-sibling::a)
 www.w3schools.com##div.sn_ad_label
 developer.mozilla.org##section.place:has(>a.no-pong)
 www.seroundtable.com##div:has(>a[rel='sponsored'])
-fmovies.to##div.text-center
-fmovies.wtf##div.text-center
-aniwave.to,bflix.io,flixhq.*,fmovies.*,f2movies.ru,movies2watch.ru,putlockernew.vc,swatchseries.ru,vidstream.pro,mcloud.to##div:has(>div>div:has-text(/^✕$/))
+fmovies.*,fmoviesz.to##div.text-center
+aniwave.to,bflix.io,flixhq.*,fmovies.*,fmoviesz.to,f2movies.ru,movies2watch.ru,putlockernew.vc,swatchseries.ru,vidstream.pro,mcloud.to##div:has(>div>div:has-text(/^✕$/))
 office365itpros.com##section:has(>h2:has-text(/^Thanks to our Sponsors$/))
 yify-subtitles.org##^script:has-text(redirectValue)
 www.juicer.io##div.elementor-element:has(p:has-text(/^Ad$/)) + div
@@ -68,8 +67,7 @@ dev.to##.crayons-layout__comments-billboard
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
 
 ! right click/devtools blockers:
-fmovies.to##+js(nostif, /devToolsDetected/)
-fmovies.wtf##+js(nostif, /devToolsDetected/)
+fmovies.*,fmoviesz.to##+js(nostif, /devToolsDetected/)
 instagram.com##:xpath(//article//div[./img]/following-sibling::div)
 
 ! malicious sites:
