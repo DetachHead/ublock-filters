@@ -66,6 +66,7 @@ dev.to##.crayons-layout__comments-billboard
 ! google hotels
 www.google.com##:xpath(//span[@id='overview']//c-wiz[@data-lrt][.//span[normalize-space(.)='Sponsored·']])
 www.google.com##:xpath(//div[./a[@data-force-new-tab] and .//span[normalize-space(.)='Sponsored·']])
+www.booking.com##div:has(>div[data-testid=property-card] span:has-text(/^Ad$/))
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
 
