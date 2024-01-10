@@ -24,7 +24,6 @@ inspiredwebdev.com##div:has(>div>img[src^='../../affiliates'])
 discuss.dizzycoding.com##.slidingmessage
 www.codegrepper.com###jobs_promo
 ziga.ga##div.box:has(h5:has-text(/^Sponsored/))
-instagram.com##article:has(header span:has-text(/^Sponsored$/))
 ! godaddy ads
 *##div#verizon-feed
 giters.com##div>a:has(img[src*='tapfiliate.com'])
