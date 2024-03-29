@@ -71,6 +71,7 @@ www.kogan.com##div.rs-infinite-scroll>div:has(small:has-text(/^Sponsored/))
 www.youtube.com##ytd-ad-slot-renderer
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
+||media.ethicalads.io/media/client/ethicalads.min.js
 
 ! right click/devtools blockers:
 fmovies.*,fmoviesz.to##+js(nostif, /devToolsDetected/)
