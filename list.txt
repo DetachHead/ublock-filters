@@ -79,3 +79,4 @@ instagram.com##:xpath(//article//div[./img]/following-sibling::div)
 
 ! malicious sites:
 ||github.sre.pub
+||histb.com
