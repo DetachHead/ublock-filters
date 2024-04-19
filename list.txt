@@ -69,6 +69,7 @@ www.booking.com##div[data-testid=property-card]:has(span:has-text(/^Ad$/))
 www.ubereats.com##main>div>div>div:has(button:has-text(/^Ad$/))
 www.kogan.com##div.rs-infinite-scroll>div:has(small:has-text(/^Sponsored/))
 www.youtube.com##ytd-ad-slot-renderer
+webpack.js.org##.sponsors
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
 ||media.ethicalads.io/media/client/ethicalads.min.js
