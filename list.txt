@@ -60,6 +60,7 @@ www.searchenginejournal.com##.sej-hello-bar:has(div.spons-text)
 www.independent.co.uk##.article:has(a:has-text(/^(SPONSORED|Promoted content)$/))
 top.gg##article:has(div[title=Promoted])
 facebook.com,m.facebook.com#?#div[data-type='vscroller']>div:has(span:contains(/^Sponsored/))
+www.facebook.com##div:has(>a span:has-text(/^Sponsored$/))
 stackoverflow.com##li.s-sidebarwidget--item:has(>div>div:has-text(/^sponsored post$/))
 dev.to##.crayons-layout__comments-billboard
 ! google hotels
