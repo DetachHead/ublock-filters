@@ -63,6 +63,7 @@ facebook.com,m.facebook.com#?#div[data-type='vscroller']>div:has(span:contains(/
 www.facebook.com##div:has(>a span:has-text(/^Sponsored$/))
 stackoverflow.com##li.s-sidebarwidget--item:has(>div>div:has-text(/^sponsored post$/))
 dev.to##.crayons-layout__comments-billboard
+dev.to##.js-billboard-container:has(span:has-text(/^Promoted$/))
 ! google hotels
 www.google.com##:xpath(//span[@id='overview']//c-wiz[@data-lrt][.//span[normalize-space(.)='Sponsored·']])
 www.google.com##:xpath(//div[./a[@data-force-new-tab] and .//span[normalize-space(.)='Sponsored·']])
