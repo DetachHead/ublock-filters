@@ -74,6 +74,7 @@ www.youtube.com##ytd-ad-slot-renderer
 webpack.js.org##.sponsors
 www.ubereats.com##main>div>div>div:has(div:has-text(/^Ad$/))
 star-history.com##div:has(>div>p:has-text(/^Sponsors \(random order\)$/))
+discord.com##div[class^='questsContainer']
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
 ||media.ethicalads.io/media/client/ethicalads.min.js
