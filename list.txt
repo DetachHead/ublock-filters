@@ -79,6 +79,7 @@ discord.com##div[class^=wrapper_]:has([class^=questPromoContent_])
 discord.com##div[class^='questsContainer']
 www.fishtank.live##div[class^='ads_']
 downforeveryoneorjustme.com##div:has(>a[rel=sponsored])
+www.romsgames.net##:xpath(//button[./preceding-sibling::comment()=' Affiliate Link '])
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
 ||media.ethicalads.io/media/client/ethicalads.min.js
