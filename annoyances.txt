@@ -12,4 +12,4 @@ x.com##nav>a:has(span:has-text(/^Communities$/))
 x.com##nav>a:has(span:has-text(/^Premium$/))
 x.com##nav>a:has(span:has-text(/^Verified Orgs$/))
 x.com##nav>a:has(span:has-text(/^Explore$/))
-x.com##div[data-testid^="followups_"]
+x.com##nav:has(div>button[role=button]>div>svg+div>span:has-text(/\?$/))
