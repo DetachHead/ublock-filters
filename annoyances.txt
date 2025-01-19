@@ -16,3 +16,4 @@ x.com##[data-testid*=followups]:upward(1):has(path[d="M7.414 13l5.043 5.04-1.414
 x.com##[aria-label="Grok actions"]
 x.com##[data-testid="GrokDrawer"]
 x.com##[aria-label="Enhance your post with Grok"]
+x.com##div[aria-label="Trending"]>div>div:has(section>div[aria-label="Timeline: Trending now"])
