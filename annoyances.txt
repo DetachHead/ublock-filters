@@ -15,3 +15,4 @@ x.com##nav>a:has(span:has-text(/^Explore$/))
 x.com##[data-testid*=followups]:upward(1):has(path[d="M7.414 13l5.043 5.04-1.414 1.42L3.586 12l7.457-7.46 1.414 1.42L7.414 11H21v2H7.414z"])
 x.com##[aria-label="Grok actions"]
 x.com##[data-testid="GrokDrawer"]
+x.com##[aria-label="Enhance your post with Grok"]
