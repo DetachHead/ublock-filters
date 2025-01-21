@@ -77,6 +77,7 @@ www.ubereats.com##main>div>div>div:has(div:has-text(/^Ad$/))
 star-history.com##div:has(>div>p:has-text(/^Sponsors \(random order\)$/))
 discord.com##div[class^=wrapper_]:has([class^=questPromoContent_])
 discord.com##div[class^='questsContainer']
+discord.com##div:has(>div[class^='rewardTileWrapper_'])
 www.fishtank.live##div[class^='ads_']
 downforeveryoneorjustme.com##div:has(>a[rel=sponsored])
 www.romsgames.net##button:has(span:has-text(/% OFF$/))
