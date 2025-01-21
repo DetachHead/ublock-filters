@@ -17,3 +17,4 @@ x.com##[aria-label="Grok actions"]
 x.com##[data-testid="GrokDrawer"]
 x.com##[aria-label="Enhance your post with Grok"]
 x.com##div[aria-label="Trending"]>div>div:has(section>div[aria-label="Timeline: Trending now"])
+x.com##div:has(>aside[aria-label="Subscribe to Premium"])
