@@ -85,6 +85,7 @@ www.fishtank.live##div[class^='ads_']
 downforeveryoneorjustme.com##div:has(>a[rel=sponsored])
 www.romsgames.net##button:has(span:has-text(/% OFF$/))
 www.milanjovanovic.tech##div:has(>.sponsorship-content)
+8hob.io##div.ad
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
 ||media.ethicalads.io/media/client/ethicalads.min.js
