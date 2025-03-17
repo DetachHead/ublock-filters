@@ -10,7 +10,7 @@ x.com##a[aria-label=Grok]
 x.com##a[aria-label=Jobs]
 x.com##a[aria-label=Communities]
 x.com##a[aria-label=Premium]
-x.com##a[aria-label=Verified Orgs]
+x.com##a[aria-label="Verified Orgs"]
 x.com##a[aria-label=Explore]
 x.com##a[aria-label=Business]
 x.com##[data-testid*=followups]:upward(1):has(path[d="M7.414 13l5.043 5.04-1.414 1.42L3.586 12l7.457-7.46 1.414 1.42L7.414 11H21v2H7.414z"])
@@ -19,3 +19,4 @@ x.com##[data-testid="GrokDrawer"]
 x.com##[aria-label="Enhance your post with Grok"]
 x.com##div[aria-label="Trending"]>div>div:has(section>div[aria-label="Timeline: Trending now"])
 x.com##div:has(>aside[aria-label="Subscribe to Premium"])
+x.com##span:has-text("You aren’t verified yet"):upward(5)
