@@ -81,6 +81,7 @@ discord.com##div:has(>div[class^='rewardTileWrapper_'])
 discord.com##div[aria-label="Activities"] div[aria-label]:has(h1:has-text(/^Promoted$/))
 discord.com##section[aria-label="Application Launcher"] div:has(>div:has-text(/^Promoted Games$/))
 discord.com##div[id^='popout_']:has(h2:has-text(/^Quest Available!/))
+discord.com##nav>div:has-text(/^Quests$/)
 www.fishtank.live##div[class^='ads_']
 downforeveryoneorjustme.com##div:has(>a[rel=sponsored])
 www.romsgames.net##button:has(span:has-text(/% OFF$/))

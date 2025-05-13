@@ -9,6 +9,7 @@
 div[class^='questsContainer'] {display: none}
 div[class^=wrapper_]:has([class^=questPromoContent_]) {display: none}
 div:has(>div[class^='rewardTileWrapper_']) {display: none}
+nav>div:has(>div>svg>path[d^='M7.5 21']) {display: none} /* quests tab on the discover page */
 
 /* 
 TODO: these filters need to be updated to not use ublock-specific syntax before they can be added here:
