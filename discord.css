@@ -1,0 +1,19 @@
+/**
+ * @name discord adblocker
+ * @author detachhead
+ * @version 1.2.0
+ * @description Hide all quests/ads in discord
+ * @source https://github.com/DetachHead/ublock-filters/blob/master/discord.css
+ */
+
+div[class^='questsContainer'] {display: none}
+div[class^=wrapper_]:has([class^=questPromoContent_]) {display: none}
+div:has(>div[class^='rewardTileWrapper_']) {display: none}
+
+/* 
+TODO: these filters need to be updated to not use ublock-specific syntax before they can be added here:
+
+div[aria-label="Activities"] div[aria-label]:has(h1:has-text(/^Promoted$/)) {display: none}
+section[aria-label="Application Launcher"] div:has(>div:has-text(/^Promoted Games$/)) {display: none}
+div[id^='popout_']:has(h2:has-text(/^Quest Available!/)) {display: none}
+*/
