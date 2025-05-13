@@ -15,6 +15,9 @@ div:has(>div[class^='rewardTileWrapper_']) {display: none}
 /* quests tab on the discover page */
 nav>div:has(>div>svg>path[d^='M7.5 21']) {display: none}
 
+/* "quests have moved" notice in gift inventory */
+div[class^="container_"][style*="discovery/quests-wumpus-hikes-mountain"] {display: none}
+
 /* promoted games in messages activities menu */
 section[aria-label="Application Launcher"] div:has(>div[class*="sectionTwoColumnContentContainer_"]) {display: none}
 
