@@ -24,6 +24,10 @@ section[aria-label="Application Launcher"] div:has(>div[class*="sectionTwoColumn
 /* promoted games in call activities menu */
 div[aria-label="Activities"] div[aria-label]:has(div[class*="promotedLabelWrapperBanner_"]) {display: none}
 
+/* promoted games on the discover page */
+/* this assumes it's always the first section because unfortunately we can't match text content using plain css selectors */
+section[class^='contentSection_'] div:has(>h2[data-text-variant='heading-lg/semibold']):nth-child(1) {display: none}
+
 /* 
 TODO: these filters need to be updated to not use ublock-specific syntax before they can be added here:
 
