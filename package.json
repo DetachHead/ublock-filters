@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@adguard/aglint": "^2.1.5"
+  },
+  "engines": {
+    "node": "21.6.1"
   }
 }
