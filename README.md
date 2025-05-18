@@ -11,9 +11,9 @@ note: this project was originally called `ublock-filters` but it's not specific 
 
 ## discord adblocker
 
-[`list.txt`](./list.txt) contains filters for blocking discord ads. however that won't work for you if you are not using the discord web app in your browser, which is why these filters are also available in [`discord.css`](./discord.css) - a theme that can be installed to a discord client mod such as [equicord](https://github.com/Equicord/Equicord).
+[`list.txt`](./list.txt) contains filters for blocking discord ads. but that only works if you're using the discord web app in your browser. if you're using the desktop app, these filters are also available in [`discord.css`](./discord.css) - a theme that can be installed to a discord client mod such as [equicord](https://github.com/Equicord/Equicord).
 
-note that the purpose of this list is strictly to block ads (aka. quests). if you would like to also block other elements such as nitro promotions, i recommend checking out [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin).
+note that the purpose of this list is strictly to block ads (eg. quests and promoted activites). if you would like to also block other elements such as nitro promotions, i recommend checking out [Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin).
 
 ### installation
 
