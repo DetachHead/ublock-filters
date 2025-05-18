@@ -84,6 +84,8 @@ discord.com##div[id^='popout_']:has(h2:has-text(/^Quest Available!/))
 discord.com##nav>div:has-text(/^Quests$/)
 discord.com##div[class^="container_"][style*="discovery/quests-wumpus-hikes-mountain"]
 discord.com##section[class^='contentSection_'] div:has(>h2:has-text(/^Promoted Games$/))
+discord.com##div[aria-label='Completed a Quest'] {cursor: not-allowed}
+discord.com##div[aria-label='Completed a Quest']>a {pointer-events: none}
 www.fishtank.live##div[class^='ads_']
 downforeveryoneorjustme.com##div:has(>a[rel=sponsored])
 www.romsgames.net##button:has(span:has-text(/% OFF$/))
