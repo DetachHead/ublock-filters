@@ -27,6 +27,10 @@ div[aria-label="Activities"] div[aria-label]:has(div[class*="promotedLabelWrappe
 /* this assumes it's always the first section because unfortunately we can't match text content using plain css selectors */
 div:has(>h2[data-text-variant='heading-lg/semibold']):has(div[class^='appDetails_']):nth-child(1) {display: none}
 
+/* quest badge on profiles. we just block the navigation to the quests page instead of hiding the whole badge because it's a mark of shame so we still want to be able to see it */
+div[aria-label='Completed a Quest'] {cursor: not-allowed}
+div[aria-label='Completed a Quest']>a {pointer-events: none}
+
 /* 
 TODO: these filters need to be updated to not use ublock-specific syntax before they can be added here:
 
