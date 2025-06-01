@@ -31,8 +31,5 @@ div:has(>h2[data-text-variant='heading-lg/semibold']):has(div[class^='appDetails
 div[aria-label='Completed a Quest'] {cursor: not-allowed}
 div[aria-label='Completed a Quest']>a {pointer-events: none}
 
-/* 
-TODO: these filters need to be updated to not use ublock-specific syntax before they can be added here:
-
-div[id^='popout_']:has(h2:has-text(/^Quest Available!/)) {display: none}
-*/
+/* quest that appears on people's profiles when they're playing a game */
+div[id^='popout_']:has(img[src^='https://cdn.discordapp.com/quests/']) {display: none}
