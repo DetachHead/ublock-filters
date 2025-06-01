@@ -1,10 +1,9 @@
 /**
  * @name discord adblocker
  * @author detachhead
- * @description Hide all quests/ads in discord
+ * @description Hide all ads in discord (eg. quests and promoted activities)
  * @source https://github.com/DetachHead/ublock-filters/blob/master/discord.css
  */
-
 
 /* various quests (i don't remember where each of these are) */
 div[class^='questsContainer'] {display: none}
