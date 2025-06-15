@@ -34,3 +34,6 @@ div[aria-label='Completed a Quest']>a {pointer-events: none}
 div[id^='popout_']:has(img[src^='https://cdn.discordapp.com/quests/']) {display: none}
 div[class^='defaultColor__'] + svg[class^='questsIcon_'] {display: none}
 div[class^='defaultColor__']:has(+ svg[class^='questsIcon_']) {display: none}
+
+/* quests on active now sidebar */
+div[class^='wrapper_']:has(span[class^='promotedTagBackground__']) {display:none}
