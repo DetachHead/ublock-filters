@@ -88,6 +88,7 @@ discord.com##div[aria-label='Completed a Quest'] {cursor: not-allowed}
 discord.com##div[aria-label='Completed a Quest']>a {pointer-events: none}
 discord.com##div[class^='defaultColor__'] + svg[class^='questsIcon_']
 discord.com##div[class^='defaultColor__']:has(+ svg[class^='questsIcon_'])
+discord.com##div[class^='wrapper_']:has(span[class^='promotedTagBackground__'])
 www.fishtank.live##div[class^='ads_']
 downforeveryoneorjustme.com##div:has(>a[rel=sponsored])
 www.romsgames.net##button:has(span:has-text(/% OFF$/))
