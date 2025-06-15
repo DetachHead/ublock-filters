@@ -36,4 +36,4 @@ div[class^='defaultColor__'] + svg[class^='questsIcon_'] {display: none}
 div[class^='defaultColor__']:has(+ svg[class^='questsIcon_']) {display: none}
 
 /* quests on active now sidebar */
-div[class^='wrapper_']:has(span[class^='promotedTagBackground__']) {display:none}
+div[class^='nowPlayingColumn__'] div[class^='wrapper_']:has(div[class*=' promotedTag_']) {display:none}
