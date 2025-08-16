@@ -88,6 +88,8 @@ discord.com##div[aria-label='Completed a Quest'] {cursor: not-allowed}
 discord.com##div[aria-label='Completed a Quest']>a {pointer-events: none}
 discord.com##svg[class^='questsIcon_']
 discord.com##div[class^='nowPlayingColumn__'] div[class^='wrapper_']:has(div[class*=' promotedTag_'])
+discord.com##div[class^="tabWrapper_"]:has-text(/^Orbs Exclusives$/)
+discord.com##div[class*='balanceWidgetMenu_']
 www.fishtank.live##div[class^='ads_']
 downforeveryoneorjustme.com##div:has(>a[rel=sponsored])
 www.romsgames.net##button:has(span:has-text(/% OFF$/))
