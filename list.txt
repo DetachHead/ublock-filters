@@ -90,6 +90,7 @@ discord.com##svg[class^='questsIcon_']
 discord.com##div[class^='nowPlayingColumn__'] div[class^='wrapper_']:has(div[class*=' promotedTag_'])
 discord.com##div[class^="tabWrapper_"]:has-text(/^Orbs Exclusives$/)
 discord.com##div[class*='balanceWidgetMenu_']
+discord.com##div[class^="blockContainer_"]:has(h2:has-text(/^Discord Orbs Exclusives$/))
 www.fishtank.live##div[class^='ads_']
 downforeveryoneorjustme.com##div:has(>a[rel=sponsored])
 www.romsgames.net##button:has(span:has-text(/% OFF$/))
