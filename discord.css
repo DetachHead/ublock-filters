@@ -32,8 +32,7 @@ div[aria-label='Completed a Quest']>a {pointer-events: none}
 
 /* quest that appears on members list when playing a game */
 div[id^='popout_']:has(img[src^='https://cdn.discordapp.com/quests/']) {display: none}
-div[class^='defaultColor__'] + svg[class^='questsIcon_'] {display: none}
-div[class^='defaultColor__']:has(+ svg[class^='questsIcon_']) {display: none}
+svg[class^='questsIcon_'] {display: none}
 
 /* quests on active now sidebar */
 div[class^='nowPlayingColumn__'] div[class^='wrapper_']:has(div[class*=' promotedTag_']) {display:none}
