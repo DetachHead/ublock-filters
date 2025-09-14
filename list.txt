@@ -100,7 +100,7 @@ www.milanjovanovic.tech##div:has(>.sponsorship-content)
 8hob.io##div.ad
 www.edugeek.net##div[data-role=sidebarAd]
 www.sitepoint.com##.unit
-qantas.viasat.com##+js(set, location.hash, "#/ConnectionInfo")
+qantas.viasat.com##.HASH_VIDEO_PAGE_GRID_CONTAINER_VIDEO_WRAPPER
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
 ||media.ethicalads.io/media/client/ethicalads.min.js
