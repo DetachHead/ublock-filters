@@ -43,3 +43,6 @@ div[class^='nowPlayingColumn__'] div[class^='wrapper_']:has(div[class*=' promote
 div[class^='shop_'] div[class^='tabs_']>div:has(h1):nth-child(3) {display: none}
 div[class*='balanceWidgetMenu_'] {display: none}
 div[class^="blockContainer_"]:has(>div>div>button) {display: none}
+
+/* quests on home page (above DMs) */
+nav[class^='privateChannels_'] li:has(a[href='/quest-home']) {display: none}
