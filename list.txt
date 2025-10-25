@@ -103,6 +103,7 @@ www.edugeek.net##div[data-role=sidebarAd]
 www.sitepoint.com##.unit
 qantas.viasat.com##.HASH_VIDEO_PAGE_GRID_CONTAINER_VIDEO_WRAPPER
 www.rustcodeweb.com##.sidebar-sponsor-post-container
+www.mde.tv##div[class^=_ads_]:has(div[class^=_panel])
 ||www.bom.gov.au/includes/marketing.html
 ||assets.msn.com/content/v1/cms/api/amp/Document/*$domain=bing.com
 ||media.ethicalads.io/media/client/ethicalads.min.js
